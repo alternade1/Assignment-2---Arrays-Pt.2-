@@ -7,6 +7,14 @@ public class App {
         for(int y = 9; y >= 0; y--){
             System.out.println(arr_1[y]);
         };
+        
+        int[] arr_i = {1,2,3,4,5};
+       for(int x = 0; x < 5; x++ ){
+            System.out.println(arr_i[0]);
+        }
+        
+        
+      
 
         }
 }
